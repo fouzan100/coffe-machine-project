@@ -15,7 +15,7 @@ we create these project with the help of these steps-
       Milk: 50ml
       Coffee: 76g
       Money: $2.5
-4 . Check resources sufficient?
+4. Check resources sufficient?
     a. When the user chooses a drink, the program should check if there are enough
        resources to make that drink.
     b. E.g. if Latte requires 200ml water but there is only 100ml left in the machine. It should
