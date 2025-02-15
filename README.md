@@ -1,4 +1,4 @@
-# coffe-machine-project in python
+# Coffe-machine-project in python
 we create these project with the help of these steps-
 
 1. Prompt user by asking “What would you like? (espresso/latte/cappuccino):”
