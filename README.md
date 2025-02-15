@@ -41,8 +41,7 @@ we create these project with the help of these steps-
        Coffee: 76g
        Money: $2.5
     c. If the user has inserted too much money, the machine should offer change
-
-  7. Make Coffee.
+7. Make Coffee.
      a. If the transaction is successful and there are enough resources to make the drink the
      user selected, then the ingredients to make the drink should be deducted from the
      coffee machine resources.
